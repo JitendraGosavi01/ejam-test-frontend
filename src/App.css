@@ -1,0 +1,14 @@
+.container {
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background: rgba(14, 17, 247, 0.562);
+  height: 6vh;
+  font-size: larger;
+  font-weight: 500;
+}
